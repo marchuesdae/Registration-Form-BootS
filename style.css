@@ -1,0 +1,22 @@
+body {
+    background-color: #f8f9fa;
+  background-image: url(wonder.jpeg);
+  background-size: auto;
+  background-position: center;
+}
+.registration-form {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+}
+.form-group {
+  margin-bottom: 20px;
+}
+.btn-submit {
+  width: 100%;
+}
+
+h1{
+   text-align: center;
+}
